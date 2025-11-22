@@ -1,6 +1,6 @@
 # VANimate – Simple Plug-and-Play Android View Animations  
 ## 📦 VANimate – ספריית אנימציות פשוטה וקומפקטית ל־Android  
-##  התקנה ואופן שימוש בעברית - מתחת לאנגלית
+## IL התקנה ואופן שימוש בעברית - מתחת לאנגלית
 
 ---
 
