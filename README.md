@@ -81,9 +81,25 @@ VANimate.twinkle(anyViewObject);
 ```java
 VANimate.shake(myView, angle, times, duration);
 VANimate.flicker(myView, depth, times, duration);
-VANimate.zigzag(myView, depth, times, duration);
+VANimate.zigzag(myView, range, times, duration);
 VANimate.twinkle(myView, depth, times, duration);
 ```
+### Parameter Reference (applies to all animations)
+
+- **duration** — animation duration in milliseconds.  
+  Type: `int`, must be `> 0`.
+
+- **times** — number of animation iterations (recursion depth).  
+  Type: `int`, must be `> 0`.
+
+- **angle** — rotation range for shake animation.  
+  Type: `int`, must be `> 0`.
+
+- **depth** — effect intensity (alpha or scale),  
+  Type: `float`, range `0 < depth < 1`.
+
+- **range** — translation range (used in zigzag), in pixels.  
+  Type: `int`, must be `> 0`.
 
 
 ---
@@ -143,9 +159,27 @@ VANimate.twinkle(anyViewObject);
 ```java
 VANimate.shake(myView, angle, times, duration);
 VANimate.flicker(myView, depth, times, duration);
-VANimate.zigzag(myView, depth, times, duration);
+VANimate.zigzag(myView, range, times, duration);
 VANimate.twinkle(myView, depth, times, duration);
 ```
+
+###a מדריך לפרמטרים (כללי לכל האנימציות)
+
+- **duration** — משך האנימציה במילישניות.  
+ d סוג: `int`, חייב להיות `> 0`.
+
+- **times** — מספר החזרות של האנימציה (רקורסיות).  
+t סוג: `int`, חייב להיות `> 0`.
+
+- **angle** — טווח סיבוב לאנימציית רעידה.  
+ a סוג: `int`, חייב להיות `> 0`.
+
+- **depth** — עוצמת האפקט (שקיפות/קנה מידה).  
+ d סוג: `float`, בטווח `0 < depth < 1`.
+
+- **range** — טווח תזוזה בפיקסלים (ב־zigzag).  
+ r סוג: `int`, חייב להיות `> 0`.
+
 
 ---
 
