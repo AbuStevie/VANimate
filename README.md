@@ -5,10 +5,10 @@
 ---
 
 # 🎬 Animation Previews  
-![Shake](VANimate/src/main/res/drawable/shakegif.gif)  
-![Twinkle](VANimate/src/main/res/drawable/twinklegif.gif)  
-![Zigzag](VANimate/src/main/res/drawable/zigzaggif.gif)  
-![Flicker](VANimate/src/main/res/drawable/flickergif.gif)
+![Shake](GIFs/shakegif.gif)  
+![Twinkle](GIFs/twinklegif.gif)  
+![Zigzag](GIFs/zigzaggif.gif)  
+![Flicker](GIFs/flickergif.gif)
 
 ---
 
