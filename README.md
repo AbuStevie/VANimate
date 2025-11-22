@@ -5,10 +5,16 @@
 ---
 
 # 🎬 Animation Previews  
-![Shake](GIFs/shakegif.gif)  
-![Twinkle](GIFs/twinklegif.gif)  
-![Zigzag](GIFs/zigzaggif.gif)  
-![Flicker](GIFs/flickergif.gif)
+<table>
+  <tr>
+    <td><img src="gifs/shakegif.gif" width="180"/></td>
+    <td><img src="gifs/twinklegif.gif" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="gifs/zigzag.gif" width="180"/></td>
+    <td><img src="gifs/flicker.gif" width="180"/></td>
+  </tr>
+</table>
 
 ---
 
