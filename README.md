@@ -7,12 +7,12 @@
 # 🎬 Animation Previews  
 <table>
   <tr>
-    <td><img src="gifs/shakegif.gif" width="180"/></td>
-    <td><img src="gifs/twinklegif.gif" width="180"/></td>
+    <td><img src="GIFs/shakegif.gif" width="180"/></td>
+    <td><img src="GIFs/twinklegif.gif" width="180"/></td>
   </tr>
   <tr>
-    <td><img src="gifs/zigzag.gif" width="180"/></td>
-    <td><img src="gifs/flicker.gif" width="180"/></td>
+    <td><img src="GIFs/zigzaggif.gif" width="180"/></td>
+    <td><img src="GIFs/flickergif.gif" width="180"/></td>
   </tr>
 </table>
 
