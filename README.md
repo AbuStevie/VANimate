@@ -11,7 +11,7 @@
     <td><img src="GIFs/twinklegif.gif" width="180"/></td>
   </tr>
   <tr>
-    <td><img src="GIFs/zigzaggif.gif" width="180"/></td>
+    <td><img src="GIFs/zigzahgif.gif" width="180"/></td>
     <td><img src="GIFs/flickergif.gif" width="180"/></td>
   </tr>
 </table>
